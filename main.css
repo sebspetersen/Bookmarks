@@ -1,0 +1,26 @@
+body {
+	background:#999;
+	font-family: arial;
+}
+
+h1, h2, li {
+	color:#555;
+}
+
+a {
+	color:black;
+}
+
+p {
+	background: #666;
+	color:white	;
+	padding:10px 0px;
+
+}
+.title {
+	font-variant: small-caps;
+}
+.secondary {
+	background: none;
+	color: white;
+}
